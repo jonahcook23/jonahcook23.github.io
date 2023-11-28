@@ -17,6 +17,23 @@ div{
     display: flex;
 }
 
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.item{
+    margin:10px;
+}
+
+#leaderboard{
+    background-color: white;
+    border: solid;
+    border-radius: 15px;
+    border-color: black;
+    padding: 5px;
+}
+
 button{
     color: white;
     background-color: darkcyan;
