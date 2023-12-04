@@ -11,6 +11,10 @@ div{
     
 }
 
+#megaImage{
+    size: 100%;
+}
+
 
 .bar{
     background-color: darkcyan;
